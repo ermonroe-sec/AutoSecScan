@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 AutoSecScan - Automated Linux Security Audit Tool
-Author: CipherGhost (https://twitter.com/CipherGhostSec)
+Author: C1pherGhostSec (https://x.com/C1pherSec)
 Version: 1.0.0
 Description: A lightweight script for identifying privilege escalation opportunities and security misconfigurations.
 """
