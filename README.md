@@ -21,3 +21,6 @@ This tool is for educational and ethical security research purposes only. Use re
 
 ## Acknowledgments
 Some insights were contributed by **a well-known figure in the space**
+
+## Misc
+https://pastebin.com/WmJD2UTq (*My true username is the password*)
